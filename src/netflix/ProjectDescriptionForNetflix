@@ -13,3 +13,6 @@ Features
      
     Feature # 5: For the client application, we want to implement a cache with a replacement strategy that replaces
      the least recently watched title. 
+     
+    Feature # 6: As an alternative to the above, we want to implement a strategy of replacing the least frequently 
+     watched titles in the cache.
