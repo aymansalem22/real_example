@@ -10,3 +10,6 @@ Features
 
     Feature # 4: For efficiently distributing content to different geographic regions and for program recommendation to
      viewers, we want to determine titles that are gaining or losing popularity scores.
+     
+    Feature # 5: For the client application, we want to implement a cache with a replacement strategy that replaces
+     the least recently watched title. 
